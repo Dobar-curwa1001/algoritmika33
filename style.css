@@ -1,0 +1,76 @@
+  body {
+    font-family: sans-serif;
+}
+header{
+  background-color:rgb(119, 245, 245) ;
+  padding:9px;
+  margin:3px;
+  border-radius:23px;
+}
+header a{
+ background-color:rgb(234, 234, 234);
+border-radius:10px;
+padding:8px;
+margin:7px;
+text-decoration:none;
+
+}
+ h1{
+text-align: center;
+ background-color:rgb(8, 164, 254);
+ border-radius: 20px;
+}
+footer p{
+    background-color: rgb(235, 130, 235);
+    padding: 5px;
+    border-radius:10px;
+}
+.logo{
+border-radius:10px;
+}
+nav{
+margin:20px;
+padding:10px;
+border:2px solid lightgrey;
+background-color: rgb(187, 172, 172)
+}
+nav a{
+margin:60px;
+font-size:20px;
+text-decoration:none;
+color:rgb(61, 54, 54);
+}
+.produckt{
+background-color: rgb(210, 171, 247);
+border-radius:10px;
+padding:10px;
+border:2px solid lightgrey;
+}
+.ff{
+color:blue;
+}
+.gg{
+border:2px solid lightblue;
+border-radius:23px;
+}
+.delivery{
+color:blue;
+}
+.fr{
+text-decoration:none;
+margin:20px;
+padding:10px;
+border:2px solid rgb(113, 99, 248);
+color:rgb(72, 136, 255);
+
+}
+
+.gf{
+color:rgb(84, 45, 255);
+}
+.rr{
+color:blueviolet;
+}
+.tt{
+color:blueviolet;
+}
